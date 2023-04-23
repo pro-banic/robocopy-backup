@@ -1,2 +1,3 @@
-# robocopy-filesync
-sync files via robocopy
+# robocopy-backup
+sync files or folders via robocopy
+creates a logfile
