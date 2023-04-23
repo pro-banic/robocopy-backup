@@ -1,3 +1,5 @@
+# https://github.com/pro-banic/robocopy-backup
+
 $sourceFile = "D:\Uploadscript\uhu\test.txt"
 $destinationPath = "Z:"
 $logFile = "D:\Uploadscript\robocopy.log"
