@@ -17,7 +17,7 @@ berge@prohotel-edv.de
 
 ## 2. Windows Aufgabenplanung einrichten
 - Aufgabenplanung in Windows starten
-- Einfache Aufgabe erstellen
+- Aufgabe erstellen
 
 > unabhängige Anmeldung
 
